@@ -1,4 +1,4 @@
-🔑 Password Generator
+                           🔑 Password Generator
 A simple and secure password generator built with Streamlit. Easily generate strong passwords with customizable length, digits, and special characters.
 
 🚀 Features
@@ -10,13 +10,8 @@ A simple and secure password generator built with Streamlit. Easily generate str
 
 📸 Screenshot
 
-🛠 Installation
-1️⃣ Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/password-generator.git
-cd password-generator
+![password-generator](https://github.com/user-attachments/assets/d5b97b41-5299-42ec-b4c3-33893a24051b)
+
 2️⃣ Create and activate a virtual environment (optional)
 bash
 Copy
